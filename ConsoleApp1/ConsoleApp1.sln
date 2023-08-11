@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1.csproj", "{12F535F6-8B39-4AB3-A1CC-CD09C17B4F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQWpf", "..\LinQWpf\LinQWpf.csproj", "{0ED11B46-ADE5-4073-A13E-554714843888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F535F6-8B39-4AB3-A1CC-CD09C17B4F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F535F6-8B39-4AB3-A1CC-CD09C17B4F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F535F6-8B39-4AB3-A1CC-CD09C17B4F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F535F6-8B39-4AB3-A1CC-CD09C17B4F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED11B46-ADE5-4073-A13E-554714843888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED11B46-ADE5-4073-A13E-554714843888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED11B46-ADE5-4073-A13E-554714843888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED11B46-ADE5-4073-A13E-554714843888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22431AC3-E372-4A37-8B18-4AE241C6799A}
+	EndGlobalSection
+EndGlobal
